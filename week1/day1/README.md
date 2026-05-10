@@ -211,4 +211,5 @@ Day 1 focused on building a strong foundation in Salesforce concepts, CRM unders
 ## Salesforce Values: Quick Look
 ![Salesforce Values](salesforce-values.png)
 
-
+## Salesforce CRM
+![Salesforce CRM](salesforce-CRM.png)
