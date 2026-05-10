@@ -228,5 +228,5 @@ Day 2 focused on understanding Salesforce platform architecture, CRM workflows, 
 ## Agentforce 360 Platform Basics
 ![Agentforce 360 Platform Basics](agentforce-360-platform-basics.png)
 
-## Salesforce CRM
-![Salesforce CRM](salesforce-CRM.png)
+## Agentforce 360 Platform Development Basics
+![Agentforce 360 Platform Development Basics](agentforce-360-platform-development-basics)
