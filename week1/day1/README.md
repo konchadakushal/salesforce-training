@@ -210,3 +210,6 @@ Day 1 focused on building a strong foundation in Salesforce concepts, CRM unders
 
 ## Salesforce Values: Quick Look
 ![Salesforce Values](salesforce-values.png)
+
+## Agentforce 360 Platform Basics
+![Agentforce 360](agentforce-360-platform-basics.png)
