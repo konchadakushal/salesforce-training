@@ -116,10 +116,6 @@ Examples:
 ## Cross-Object Formulas
 Accessing related object fields.
 
-### Example
-```text
-Account.ShippingPostalCode
-
 # 📸 Screenshots
 
 ## Data Modeling
