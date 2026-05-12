@@ -119,3 +119,11 @@ Accessing related object fields.
 ### Example
 ```text
 Account.ShippingPostalCode
+
+# 📸 Screenshots
+
+## Data Modeling
+![Data Modeling](data-modeling.png)
+
+## Formulas and Validations
+![Formulas and Validations](formulas-and-validations.png)
